@@ -16,7 +16,7 @@ Version: 1.5.8 https://krunker.io
 - Go to resources and replace app.asar with the one you downloaded.
 
 Enjoy<br>
-Thanks to 🇮🇹<b>Uploader#3775</b> and <b>Edu el mas vergudo#6266</b>
+Thanks to <b>Uploader#3775</b> and <b>Edu el mas vergudo#6266</b>
 
 ## Policy
 <b>We take no responsibility for what may happen to your account.</b>
