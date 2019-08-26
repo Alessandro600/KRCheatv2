@@ -1,4 +1,4 @@
-<center><img src="https://i.imgur.com/Z2tkF5j.png">
+<img src="https://i.imgur.com/Z2tkF5j.png">
 ## Need help? Enter our discord!
 <a href="https://discord.gg/j6G6faM">https://discord.gg/j6G6faM</a>
 
