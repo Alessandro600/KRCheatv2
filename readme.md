@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Z2tkF5j.png"><br>
 ## Need help? Enter our discord!
-<a href="https://discord.gg/j6G6faM" target=_blank>https://discord.gg/j6G6faM</a>
+<a href="https://discord.gg/j6G6faM" target="_blank">https://discord.gg/j6G6faM</a>
 
 ## <font size="20px">How to install</font><br>
 Version: 1.5.8 https://krunker.io
