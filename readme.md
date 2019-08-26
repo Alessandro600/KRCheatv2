@@ -13,7 +13,7 @@
 
 - Right click on Krunker.io Client.exe (on desktop) and click Open file location
 
-- Go to resources and replace app.asar with the one you downloaded.
+- Go to resources and replace app.asar with what you downloaded from this page.
 
 Enjoy<br>
 Thanks to <b>Uploader#3775</b> and <b>Edu el mas vergudo#6266</b>
