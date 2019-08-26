@@ -7,7 +7,7 @@ Version: 1.5.8 https://krunker.io
 
 - Download app.asar <a href="#">(here)</a>
 
-- Download setup.exe for installer krunker client <a href="https://client.krunker.io/setup.exe">(here)</a>
+- Download setup.exe for installer krunker client <a href="https://client.krunker.io/setup.exe" target="_blank">(here)</a>
 
 - Run setup.exe and install krunker client.
 
