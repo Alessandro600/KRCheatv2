@@ -5,17 +5,17 @@
 ## <font size="20px">How to install</font><br>
 **This is for version 1.5.9 of https://krunker.io**
 
-- Download app.asar <a href="#">(here)</a>
+>- Download app.asar <a href="#">(here)</a>
 
-- Download setup.exe for installer krunker client <a href="https://client.krunker.io/setup.exe" target="_blank">(here)</a>
+>- Download setup.exe for installer krunker client <a href="https://client.krunker.io/setup.exe" target="_blank">(here)</a>
 
-- Run setup.exe and install krunker client.
+>- Run setup.exe and install krunker client.
 
-- Right click on Krunker.io Client.exe (on desktop) and click Open file location
+>- Right click on Krunker.io Client.exe (on desktop) and click Open file location
 
-- Go to resources and replace app.asar with what you downloaded from this page.
+>- Go to resources and replace app.asar with what you downloaded from this page.
 
-Enjoy!<br><br>
+>Enjoy!<br><br>
 Developed by **Edu el mas vergudo#6266**<br>
 Thanks to **Uploader#3775**
 
