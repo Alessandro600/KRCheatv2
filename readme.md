@@ -1,2 +1,2 @@
 
-<font size="10">How to install</font>
+<font size="25">How to install</font>
