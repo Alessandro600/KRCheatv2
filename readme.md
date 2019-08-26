@@ -16,7 +16,8 @@
 - Go to resources and replace app.asar with what you downloaded from this page.
 
 Enjoy<br>
-Developed by **Edu el mas vergudo#6266** and thanks to **Uploader#3775**
+Developed by **Edu el mas vergudo#6266**<br>
+Thanks to **Uploader#3775**
 
 ## Policy
 <b>We take no responsibility for what may happen to your account.<br>
