@@ -19,4 +19,5 @@ Enjoy<br>
 Thanks to <b>Uploader#3775</b> and <b>Edu el mas vergudo#6266</b>
 
 ## Policy
-<b>We take no responsibility for what may happen to your account.</b>
+<b>We take no responsibility for what may happen to your account.<br>
+There is a risk of ban if you do not use them properly.</b>
