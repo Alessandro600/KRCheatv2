@@ -1,4 +1,4 @@
-## Enter our discord channel
+## Need help? Enter our discord!
 <a href="https://discord.gg/j6G6faM">https://discord.gg/j6G6faM</a>
 
 ## <font size="20px">How to install</font><br>
