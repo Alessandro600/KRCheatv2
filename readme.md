@@ -1,7 +1,7 @@
 <font size="20px">How to install</font><br>
 Version: 1.5.8 https://krunker.io
 
-- Download app.asar
+- Download app.asar <a href="#">(here)</a>
 
 - Download setup.exe for installer krunker client <a href="https://client.krunker.io/setup.exe">(here)</a>
 
