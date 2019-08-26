@@ -16,7 +16,7 @@ Version: 1.5.8 https://krunker.io
 - Vai in resources e sostituisci il file app.asar con quello che hai scaricato da qui.
 
 Buon divertimento<br>
-Un ringraziamento speciale a Uploader#3775 e Edu el mas vergudo#6266
+Un ringraziamento speciale a <b>Uploader#3775</b> e <b>Edu el mas vergudo#6266</b>
 
 ## <font size="20px">How to install (EN)</font><br>
 Version: 1.5.8 https://krunker.io
