@@ -3,7 +3,7 @@
 <a href="https://discord.gg/j6G6faM">https://discord.gg/j6G6faM</a>
 
 ## <font size="20px">How to install</font><br>
-Version: 1.5.8 https://krunker.io
+Version: 1.5.8 https://krunker.io (NOW NOT WORK)
 
 - Download app.asar <a href="#">(here)</a>
 
