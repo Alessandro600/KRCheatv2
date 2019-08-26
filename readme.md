@@ -15,7 +15,7 @@
 
 >- Go to resources and replace app.asar with what you downloaded from this page.
 
->Enjoy!
+>- Enjoy with the hacks!
 
 Developed by **Edu el mas vergudo#6266**<br>
 Thanks to **Uploader#3775**
