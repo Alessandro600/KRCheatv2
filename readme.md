@@ -1,4 +1,4 @@
-<font size="20px">How to install</font><br>
+## <font size="20px">How to install</font><br>
 Version: 1.5.8 https://krunker.io
 
 - Download app.asar <a href="#">(here)</a>
